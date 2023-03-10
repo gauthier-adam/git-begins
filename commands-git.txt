@@ -2,4 +2,9 @@ git clone "ici mettre lien"
 
 git remote add origin
 git branch -M main
+<<<<<<< HEAD
 git push -u origin main
+=======
+git push -u origin main
+git pull
+>>>>>>> 47e82addd88c40b0540eb1281fd4b9772316a83d
